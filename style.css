@@ -1,0 +1,104 @@
+
+
+
+.second_div{
+	position: relative;
+
+	
+	color: #fff;
+	background-color: #ffc85c;
+	z-index: -1;
+	
+}
+
+.nobi{
+	position: relative;
+	left: 900px;
+	height: 400px;
+	top: 90px;
+}
+.heading{
+	position: relative;
+	top: 150px;
+padding-left: 100px;
+font-family: 'Rochester', cursive;
+font-size: 7rem;	
+	}
+	h3.pin{
+		position: relative;
+	top: 150px;
+padding-left: 100px;
+font-family: 'Rochester', cursive;
+	}
+.third{
+	margin-top: 202px;
+	
+	text-align: center;
+	margin-bottom: 200px;
+	font-family: 'Satisfy', cursive;
+	color: #ec5858;
+}
+.balloons{
+	height: 10%;
+	width: 10%;
+	position: relative;
+	left: 400px;
+	top:90px;
+	transform: rotate(20deg);
+}
+
+	
+h1.wish{
+	font-size: 7rem;
+	
+}
+h2.wish2{
+	padding-top: 10px;
+}
+}
+.dora{
+	
+	height: 90%;
+}
+.head{
+	background-color: #fff8c1;
+}
+.head2{
+padding-top: 70px;
+font-family: 'Source Code Pro', monospace;
+}
+.sound{
+	position: relative;
+	left: 90px;
+	bottom: 1010px;
+}
+.flower{
+	height: 5.6%;
+	position: relative;
+	top: 50px;
+	left: 290px;
+}
+@media(max-width: 1020px){
+	
+	.heading {
+		text-align: center;
+	}
+	.second_div {
+		text-align: center;
+		z-index: 1;
+	}
+	.third {
+		text-align: center;
+	}
+	.head2 {
+		text-align: left;
+	}
+   .nobi{
+	
+	position: initial;
+	top: 1000px;
+    }
+
+
+}
+
