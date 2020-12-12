@@ -98,6 +98,7 @@ font-family: 'Source Code Pro', monospace;
 	
 	position: initial;
 	display:inline;
+	   z-index: -1;
     }
 	
 	
