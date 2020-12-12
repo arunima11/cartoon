@@ -97,8 +97,7 @@ font-family: 'Source Code Pro', monospace;
    .nobi{
 	
 	position: initial;
-	display:inline;
-	   z-index: -1;
+	top:1000px;
     }
 	
 	
