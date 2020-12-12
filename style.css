@@ -98,6 +98,12 @@ font-family: 'Source Code Pro', monospace;
 	position: initial;
 	top: 1000px;
     }
+	p.hidden{
+		display:none;
+	}
+	.sound{
+		position: initial;;
+	
 
 
 }
